@@ -1,0 +1,17 @@
+Type	Rank	Freq	Range	NormFreq	NormRange
+revista eletrônica de comunicação informação inovação em saúde	86	145	1	2744.393	1.000
+comunicação informação inovação em saúde rio de janeiro	96	136	1	2574.051	1.000
+eletrônica de comunicação informação inovação em saúde rio	96	136	1	2574.051	1.000
+rasi avaliado pelo sistema double blind review editor	112	119	1	2252.295	1.000
+arquivo da secção de heráldica direcção de história	114	116	1	2195.514	1.000
+coordenação de aperfeiçoamento de pessoal de nível superior	125	110	1	2081.953	1.000
+º ano unidades temáticas objetos de conhecimento habilidades	168	90	1	1703.416	1.000
+direito da cidade vol issn doi rdc revista	198	82	1	1552.002	1.000
+revista de direito da cidade vol issn doi	198	82	1	1552.002	1.000
+universidade federal do rio grande do sul porto	254	73	1	1381.660	1.000
+federal do rio grande do sul porto alegre	272	71	1	1343.806	1.000
+linguagem objetos de conhecimento habilidades º ano º	281	68	1	1287.026	1.000
+objetos de conhecimento habilidades º ano º ano	281	68	1	1287.026	1.000
+organização do trabalho nas dinâmicas de inovação evidências	281	68	1	1287.026	1.000
+práticas de linguagem objetos de conhecimento habilidades º	281	68	1	1287.026	1.000
+trabalho nas dinâmicas de inovação evidências na administração	281	68	1	1287.026	1.000

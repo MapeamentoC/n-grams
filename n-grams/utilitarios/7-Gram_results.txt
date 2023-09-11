@@ -1,0 +1,25 @@
+Type	Rank	Freq	Range	NormFreq	NormRange
+universidade federal do rio grande do sul	34	317	1	4713.895	1.000
+rede de inovação da biodiversidade da amazônia	55	214	1	3182.251	1.000
+eletrônica de comunicação informação inovação em saúde	112	145	1	2156.198	1.000
+informação inovação em saúde rio de janeiro	127	136	1	2022.365	1.000
+revista de direito da cidade vol issn	138	126	1	1873.662	1.000
+rasi avaliado pelo sistema double blind review	149	119	1	1769.569	1.000
+coordenação de aperfeiçoamento de pessoal de nível	167	114	1	1695.218	1.000
+revista de administração pública rio de janeiro	175	109	1	1620.866	1.000
+práticas de linguagem objetos de conhecimento habilidades	214	94	1	1397.811	1.000
+processo arquivo da secção de heráldica direcção	218	92	1	1368.070	1.000
+ano unidades temáticas objetos de conhecimento habilidades	223	90	1	1338.330	1.000
+º ano unidades temáticas objetos de conhecimento	223	90	1	1338.330	1.000
+fundação de amparo à pesquisa do estado	260	83	1	1234.237	1.000
+direito da cidade vol issn doi rdc	267	82	1	1219.367	1.000
+anais da academia pernambucana de ciência agronômica	295	78	1	1159.886	1.000
+diário oficial da república federativa do brasil	295	78	1	1159.886	1.000
+escola superior de educação do instituto politécnico	308	76	1	1130.145	1.000
+aperfeiçoamento de pessoal de nível superior capes	343	72	1	1070.664	1.000
+organização do trabalho nas dinâmicas de inovação	343	72	1	1070.664	1.000
+dinâmicas de inovação evidências na administração pública	372	68	1	1011.182	1.000
+estratégico da assembleia legislativa do rio grande	372	68	1	1011.182	1.000
+linguagem objetos de conhecimento habilidades º ano	372	68	1	1011.182	1.000
+objetos de conhecimento habilidades º ano º	372	68	1	1011.182	1.000
+universidade federal do rio grande do norte	441	67	1	996.312	1.000
